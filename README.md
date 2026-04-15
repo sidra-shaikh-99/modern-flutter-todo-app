@@ -4,7 +4,7 @@ A clean and modern Todo app built using Flutter with Provider for state manageme
 ---
 ## 🌐 Live Demo
 
-👉 [View App](sidra-modern-flutter-todo-app.netlify.app)
+👉 [View Website]([sidra-modern-flutter-todo-app.netlify.app](https://sidra-modern-flutter-todo-app.netlify.app/))
 
 ## ✨ Features
 
