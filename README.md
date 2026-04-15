@@ -17,6 +17,10 @@ A clean and modern Todo app built using Flutter with Provider for state manageme
 ## 📸 Screenshots
 
 ![screenshot](screenshot/todo1.png)
+
+---
+---
+
 ![screenshot](screenshot/todo2.png)
 
 ## 🚀 Tech Stack
